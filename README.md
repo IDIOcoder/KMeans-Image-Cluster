@@ -1,6 +1,6 @@
 # KMeans-Image-Cluster
 
-![sample_image](sample_image)
+![sample_image](sample_image.png)
 
 ## 설명
 이 프로그램은 학교 과제의 일환으로 Sklearn 라이브러리의 KMeans 모듈을 활용하여 제작된 이미지 클러스터링 도구입니다.
